@@ -1,21 +1,33 @@
 <div align="center">
 
+<img src="assets/brand/kalaris-labs-banner.svg" alt="Kalaris Labs agentic scientific computing research lab banner" width="100%">
+
 # Kalaris Labs
 
-### Infrastructure for agentic scientific computing
-
-We build open research infrastructure for agentic AI and autonomous scientific discovery: multi-agent systems that can plan computational work, execute it in reproducible environments, challenge intermediate results, and turn evidence into inspectable research artifacts.
+### Infrastructure layer for agentic scientific computing
 
 [![Website](https://img.shields.io/badge/Website-kalarislabs.com-111111?style=flat-square)](https://kalarislabs.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalaris%20Labs-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/kalarislabs)
 [![GitHub](https://img.shields.io/badge/GitHub-Open%20research-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KalarisLabs?tab=repositories)
 [![Founded](https://img.shields.io/badge/Founded-2026-6B7280?style=flat-square)](https://www.linkedin.com/company/kalarislabs)
 
-[![SPONSORED BY E2B FOR STARTUPS](https://img.shields.io/badge/SPONSORED%20BY-E2B%20FOR%20STARTUPS-ff8800?style=for-the-badge)](https://e2b.dev/startups)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=700&color=F7F7F7&center=true&vCenter=true&width=920&lines=Agentic+scientific+computing;Autonomous+R%26D+infrastructure;Multi-agent+research+systems;GPU-native+inference+for+verified+discovery;Research+runtimes+with+scientific+memory" alt="Animated Kalaris Labs focus areas">
+
+[![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Scientific%20Computing-111111?style=for-the-badge)](https://kalarislabs.com)
+[![Autonomous Science](https://img.shields.io/badge/Autonomous%20Science-Research%20Runtime-222222?style=for-the-badge)](https://kalarislabs.com)
+[![Verification](https://img.shields.io/badge/Verification-Adversarial%20Review-444444?style=for-the-badge)](https://kalarislabs.com)
 
 </div>
 
 ---
+
+## Agentic scientific computing infrastructure
+
+Kalaris Labs is an applied AI research lab building the infrastructure layer for agentic scientific discovery. We build systems for autonomous R&D, multi-agent orchestration, GPU-native execution, optimized inference, secure code execution, verifiable research workflows, and reproducible research automation.
+
+Our work connects research runtimes, scientific memory, knowledge graphs, citation validation, adversarial review, and inspectable scientific output. The goal is not another chatbot. The goal is infrastructure that helps researchers plan, execute, verify, and communicate evidence with stronger provenance.
+
+**Core search areas:** agentic AI, autonomous scientific discovery, AI for science, scientific computing, multi-agent systems, research automation, AI infrastructure, GPU inference, reproducibility, verification, citation checking, knowledge graphs, secure sandboxes, scientific memory, optimized inference, research runtime.
 
 ## Build the research loop, not another chatbot
 
@@ -45,51 +57,41 @@ Each repository documents its own maturity, validation status, limitations, and 
 
 ## What we are building toward
 
-- **Research orchestration** - decompose a scientific objective into bounded, reviewable computational tasks.
-- **Reproducible execution** - run code, analyses, and experiments in isolated environments with explicit inputs and outputs.
-- **Verification as infrastructure** - challenge claims, check citations, expose uncertainty, and fail closed when evidence is insufficient.
-- **Scientific memory** - preserve decisions, provenance, artifacts, and unresolved questions across long-running projects.
-- **Research communication** - convert verified computational output into clear methods, results, discussion, and citations without hiding the evidence trail.
+- **Research orchestration:** Decompose a scientific objective into bounded, reviewable computational tasks.
+- **Reproducible execution:** Run code, analyses, and experiments in isolated environments with explicit inputs and outputs.
+- **Verification as infrastructure:** Challenge claims, check citations, expose uncertainty, and fail closed when evidence is insufficient.
+- **Scientific memory:** Preserve decisions, provenance, artifacts, and unresolved questions across long-running projects.
+- **Research communication:** Convert verified computational output into clear methods, results, discussion, and citations while keeping the evidence trail visible.
+- **GPU-native research systems:** Route models, schedule compute, and optimize inference for demanding scientific workloads.
 
 ## Research principles
 
 1. **Evidence before confidence.** Model output is not experimental proof.
 2. **Reproducibility before spectacle.** A result should carry enough context to inspect and rerun it.
 3. **Adversarial review by design.** Systems should search for confounders, counterexamples, and failure modes.
-4. **Explicit boundaries.** Unsupported conclusions should become warnings, failures, or no-calls - not polished guesses.
-5. **Human authority remains visible.** AI infrastructure can expand scientific throughput; it does not erase expert, ethical, clinical, regulatory, or safety responsibility.
+4. **Explicit boundaries.** Unsupported conclusions should become warnings, failures, or no-calls rather than polished guesses.
+5. **Human authority remains visible.** AI infrastructure can expand scientific throughput. It does not erase expert, ethical, clinical, regulatory, or safety responsibility.
 
-## Supported by
+## Supported by startup programs and platform partners
 
-We gratefully acknowledge the startup programs providing infrastructure and platform support to Kalaris Labs.
-
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://e2b.dev/startups">
-        <img src="assets/sponsors/e2b/e2b-for-startups.png" width="320" alt="Accepted into E2B for Startups">
-      </a>
-      <br><strong>E2B for Startups</strong>
-      <br><sub>Secure, isolated execution infrastructure for research agents.</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://cartesia.ai/">
-        <img src="assets/sponsors/cartesia/cartesia-startups-grant-recipient.png" width="320" alt="Cartesia Startups Grant recipient">
-      </a>
-      <br><strong>Cartesia Startups Grant</strong>
-      <br><sub>Support for real-time voice interfaces in scientific workflows.</sub>
-    </td>
-  </tr>
-</table>
+We gratefully acknowledge startup program, infrastructure, and platform support from teams that help Kalaris Labs build reliable research systems.
 
 <div align="center">
 
-[![Cartesia Startups Grant](https://img.shields.io/badge/Supported%20by-Cartesia%20Startups-00563F?style=for-the-badge)](https://cartesia.ai/)
-[![MongoDB for Startups](https://img.shields.io/badge/Supported%20by-MongoDB%20for%20Startups-00684A?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/startups)
-
-<sub>Program participation acknowledges platform support; it does not imply that a provider endorses every Kalaris Labs claim or repository.</sub>
+| Data and memory | Observability and reliability | Agent execution | Research workspace | AI and media infrastructure |
+|---|---|---|---|---|
+| [![MongoDB for Startups](https://img.shields.io/badge/MongoDB%20for%20Startups-Database%20support-00684A?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/startups) | [![Datadog](https://img.shields.io/badge/Datadog-Observability-632CA6?style=for-the-badge&logo=datadog&logoColor=white)](https://www.datadoghq.com/) | [![E2B](https://img.shields.io/badge/E2B-Secure%20sandboxes-ff8800?style=for-the-badge)](https://e2b.dev/startups) | [![Notion Business](https://img.shields.io/badge/Notion%20Business-Knowledge%20workspace-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.com/product/business) | [![Runware](https://img.shields.io/badge/Runware-Generation%20infrastructure-111111?style=for-the-badge)](https://runware.ai/) |
+| [![PostHog](https://img.shields.io/badge/PostHog-Product%20analytics-FF5C2B?style=for-the-badge&logo=posthog&logoColor=white)](https://posthog.com/startups) | [![Sentry](https://img.shields.io/badge/Sentry-Application%20monitoring-362D59?style=for-the-badge&logo=sentry&logoColor=white)](https://sentry.io/for/startups/) | [![Claude for Startups](https://img.shields.io/badge/Claude%20for%20Startups-AI%20model%20support-D97757?style=for-the-badge)](https://www.anthropic.com/startups) | [![OpenAI for Startups](https://img.shields.io/badge/OpenAI%20for%20Startups-AI%20platform%20support-10A37F?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/startups/) | [![Cartesia](https://img.shields.io/badge/Cartesia-Voice%20AI%20support-00563F?style=for-the-badge)](https://cartesia.ai/) |
 
 </div>
+
+Program participation acknowledges infrastructure, credits, tooling, workspace, model, or platform support. It does not imply endorsement of every Kalaris Labs claim, repository, benchmark, or research artifact.
+
+## Research areas
+
+Agentic AI · Autonomous Science · Scientific Computing · Multi-Agent Systems · Research Automation · Reproducible Research · AI Infrastructure · GPU Inference · Verification · Knowledge Graphs · Secure Code Execution · Scientific Memory · Citation Validation · Open Science
+
+`#AgenticAI` `#AutonomousScience` `#ScientificComputing` `#AIInfrastructure` `#MultiAgentSystems` `#ReproducibleResearch` `#ResearchAutomation` `#AIForScience` `#GPUComputing` `#OpenScience` `#KnowledgeGraphs` `#AIOps` `#LLMOps`
 
 ## Work with us
 
