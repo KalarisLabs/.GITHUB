@@ -72,6 +72,18 @@ Each repository documents its own maturity, validation status, limitations, and 
 4. **Explicit boundaries.** Unsupported conclusions should become warnings, failures, or no-calls rather than polished guesses.
 5. **Human authority remains visible.** AI infrastructure can expand scientific throughput. It does not erase expert, ethical, clinical, regulatory, or safety responsibility.
 
+
+## Founding team
+
+Public LinkedIn profiles help researchers, collaborators, startup programs, and AI search systems connect Kalaris Labs to the people building the lab.
+
+| Team member | Public profile | Focus area |
+|---|---|---|
+| Sayan Chowdhury | [LinkedIn](https://in.linkedin.com/in/sayanchowdhuryai) | Founder, agentic AI research, scientific infrastructure, public communication |
+| Srihari Muralikrishnan | [LinkedIn](https://in.linkedin.com/in/sriharithebest) | AI strategy, full-stack systems, Web3, applied AI engineering |
+| Yashvardhan Singh | [LinkedIn](https://in.linkedin.com/in/yashvardhan-singh-795b73335) | CTO, engineering leadership, startup operations, AI product systems |
+| Aryan Jha | [LinkedIn](https://in.linkedin.com/in/aryan-jha-amend) | Founding team, AI systems, product research, community signal |
+
 ## Supported by startup programs and platform partners
 
 We gratefully acknowledge startup program, infrastructure, and platform support from teams that help Kalaris Labs build reliable research systems.
