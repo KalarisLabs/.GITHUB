@@ -11,7 +11,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Open%20research-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KalarisLabs?tab=repositories)
 [![Founded](https://img.shields.io/badge/Founded-2026-6B7280?style=flat-square)](https://www.linkedin.com/company/kalarislabs)
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=700&color=F7F7F7&center=true&vCenter=true&width=920&lines=Agentic+scientific+computing;Autonomous+R%26D+infrastructure;Multi-agent+research+systems;GPU-native+inference+for+verified+discovery;Research+runtimes+with+scientific+memory" alt="Animated Kalaris Labs focus areas">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=24&amp;duration=2600&amp;pause=700&amp;color=F7F7F7&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=Agentic+scientific+computing;Autonomous+R%26D+infrastructure;Multi-agent+research+systems;GPU-native+inference+for+verified+discovery;Research+runtimes+with+scientific+memory">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=24&amp;duration=2600&amp;pause=700&amp;color=111111&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=Agentic+scientific+computing;Autonomous+R%26D+infrastructure;Multi-agent+research+systems;GPU-native+inference+for+verified+discovery;Research+runtimes+with+scientific+memory">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=24&amp;duration=2600&amp;pause=700&amp;color=111111&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=Agentic+scientific+computing;Autonomous+R%26D+infrastructure;Multi-agent+research+systems;GPU-native+inference+for+verified+discovery;Research+runtimes+with+scientific+memory" alt="Animated Kalaris Labs focus areas">
+</picture>
 
 [![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Scientific%20Computing-111111?style=for-the-badge)](https://kalarislabs.com)
 [![Autonomous Science](https://img.shields.io/badge/Autonomous%20Science-Research%20Runtime-222222?style=for-the-badge)](https://kalarislabs.com)
@@ -45,16 +49,6 @@ plan -> execute -> observe -> challenge -> revise
 
 Our focus is **agentic scientific computing**: multi-agent research systems, secure computational execution, scientific memory, evidence-aware synthesis, adversarial review, and reproducible research workflows. The aim is not to automate judgment away. It is to give researchers stronger systems for testing ideas and tracing how a result was produced.
 
-## Open research and engineering
-
-| Project | What it is | Current public scope |
-|---|---|---|
-| [**MYRIAD**](https://github.com/KalarisLabs/Myriad) | A machine-readable task graph for biotechnology and pharmaceutical work | 100 domains, 1,000 workstreams, and 10,000 taxonomy-defined task nodes; 3 nodes are implemented as complete seed skills |
-| [**FALSIFY**](https://github.com/KalarisLabs/Falsify) | An adversarial research pre-mortem for hypotheses | Decomposes claims, surfaces assumptions and confounders, proposes falsification tests, and records evidence boundaries |
-| [**PrincipalBench**](https://github.com/KalarisLabs/Principal-Bench) | A benchmark harness for LLM orchestrators in multi-agent pipelines | Evaluates task decomposition, worker-failure detection, recovery, and context coherence |
-
-Each repository documents its own maturity, validation status, limitations, and license. A public artifact is not automatically an experimentally validated protocol or a substitute for qualified scientific review.
-
 ## What we are building toward
 
 - **Research orchestration:** Decompose a scientific objective into bounded, reviewable computational tasks.
@@ -79,10 +73,9 @@ Public LinkedIn profiles help researchers, collaborators, startup programs, and 
 
 | Team member | Public profile | Focus area |
 |---|---|---|
-| Sayan Chowdhury | [LinkedIn](https://in.linkedin.com/in/sayanchowdhuryai) | Founder, agentic AI research, scientific infrastructure, public communication |
-| Srihari Muralikrishnan | [LinkedIn](https://in.linkedin.com/in/sriharithebest) | AI strategy, full-stack systems, Web3, applied AI engineering |
-| Yashvardhan Singh | [LinkedIn](https://in.linkedin.com/in/yashvardhan-singh-795b73335) | CTO, engineering leadership, startup operations, AI product systems |
-| Aryan Jha | [LinkedIn](https://in.linkedin.com/in/aryan-jha-amend) | Founding team, AI systems, product research, community signal |
+| Sayan Chowdhury | [LinkedIn](https://www.linkedin.com/in/sayanchowdhuryai/) | Founder, agentic AI research, scientific infrastructure, public communication |
+| Aryan Jha | [LinkedIn](https://www.linkedin.com/in/aryan-jha-amend/) | Founding team, AI systems, product research, community signal |
+| Yashvardhan Singh | [LinkedIn](https://www.linkedin.com/in/yashvardhan-singh-795b73335/) | CTO, engineering leadership, startup operations, AI product systems |
 
 ## Supported by startup programs and platform partners
 
@@ -112,7 +105,7 @@ We welcome researchers, scientific software engineers, infrastructure builders, 
 - Explore the [open repositories](https://github.com/KalarisLabs?tab=repositories).
 - Follow research and build updates on [LinkedIn](https://www.linkedin.com/company/kalarislabs).
 - Read more at [kalarislabs.com](https://kalarislabs.com).
-- Contact: [research@kalarislabs.com](mailto:research@kalarislabs.com)
+- Contact: [hello@kalarislabs.com](mailto:hello@kalarislabs.com)
 - Security reports: [security@kalarislabs.com](mailto:security@kalarislabs.com)
 
 ---
