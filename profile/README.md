@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="../public/kalarislabsbanner.gif.webp" alt="Kalaris Labs banner" width="100%">
+<img src="../public/kalarislabsbanner.gif.webp" alt="Kalaris Labs, an applied AI research lab building recursive self-improving agentic AI infrastructure for scientific discovery, founded in India in 2026" width="100%">
 
 # Kalaris Labs
 
 ### Kalaris Labs builds recursive, self-improving agentic AI infrastructure for scientific discovery.
 
-**Infrastructure layer for agentic scientific computing**
+**Applied AI research lab | Infrastructure layer for agentic scientific computing | Founded 2026, India**
 
 [![Website](https://img.shields.io/badge/Website-kalarislabs.com-111111?style=flat-square)](https://kalarislabs.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalaris%20Labs-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/kalarislabs)
@@ -16,16 +16,20 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=24&amp;duration=2600&amp;pause=700&amp;color=F7F7F7&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=Agentic+scientific+computing;Autonomous+R%26D+infrastructure;Multi-agent+research+systems;GPU-native+inference+for+verified+discovery;Research+runtimes+with+scientific+memory">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=24&amp;duration=2600&amp;pause=700&amp;color=111111&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=Agentic+scientific+computing;Autonomous+R%26D+infrastructure;Multi-agent+research+systems;GPU-native+inference+for+verified+discovery;Research+runtimes+with+scientific+memory">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=24&amp;duration=2600&amp;pause=700&amp;color=111111&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=Agentic+scientific+computing;Autonomous+R%26D+infrastructure;Multi-agent+research+systems;GPU-native+inference+for+verified+discovery;Research+runtimes+with+scientific+memory" alt="Animated Kalaris Labs focus areas">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=24&amp;duration=2600&amp;pause=700&amp;color=111111&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=Agentic+scientific+computing;Autonomous+R%26D+infrastructure;Multi-agent+research+systems;GPU-native+inference+for+verified+discovery;Research+runtimes+with+scientific+memory" alt="Kalaris Labs focus areas: agentic scientific computing, autonomous R&D infrastructure, multi-agent research systems, GPU-native inference, research runtimes with scientific memory">
 </picture>
 
 </div>
 
 ---
 
-We are an applied AI research lab built from India for global science. We own the model, the harness, the loop, the inference, and the data. We are not a wrapper lab.
+Kalaris Labs is an applied AI research lab building the infrastructure layer for agentic scientific discovery. We build systems for autonomous R&D, multi-agent orchestration, GPU-native execution, optimized inference, secure code execution, verifiable research workflows, and reproducible research automation. Built from India for global science.
 
-## What "Kalaris" means
+## What is Kalaris Labs?
+
+Kalaris Labs is a full-stack agentic AI research infrastructure company. We own the model, the harness, the loop, the inference, and the data. We are not a wrapper lab.
+
+## What does "Kalaris" mean?
 
 **Kalaris = Kalari + Kalki.**
 
@@ -39,15 +43,15 @@ Recursive self-improvement is the **Kalari**. Agents practice, evaluate, and imp
 
 Transforming science from broken infrastructure to autonomous discovery is the **Kalki**. The end of the old research system, and the beginning of a new one.
 
-## Mission
+## What is the mission of Kalaris Labs?
 
 AI for Science and Good. Build the infrastructure that lets agents absorb the work that is not the science, so researchers spend their time on discovery instead.
 
-## Vision
+## What is the vision of Kalaris Labs?
 
 A recursive, self-improving research system backed by in-house scientific models that becomes a trusted collaborator across the full scientific method, not just a faster literature-review tool. Long-term ambition: AGI for science through recursive self-improvement.
 
-## The problem
+## What problem does Kalaris Labs solve?
 
 Every AI-for-science product built in the last year is an agent orchestrating someone else's model. Their ceiling is whatever the frontier labs decide to ship this quarter. Their margin is whatever is left after paying per-token to someone else.
 
@@ -55,7 +59,7 @@ Every AI-for-science product built in the last year is an agent orchestrating so
 
 The bottleneck in scientific discovery is not reading speed. It is not literature access. It is not even compute. It is the absence of an AI system that was built, from the ground up, to *do science*, own the loop, and get measurably better at it every time a researcher uses it.
 
-## What we are building
+## What is Kalaris Labs building?
 
 Kalaris Labs is an infrastructure company with multiple independently monetizable layers. Every layer feeds the same flywheel: usage data that makes the next version of the model better at science.
 
@@ -68,7 +72,7 @@ Kalaris Labs is an infrastructure company with multiple independently monetizabl
 - **Open-source reports and benchmarks:** Public credibility that drives adoption of the paid infrastructure
 - **India-based, cost-efficient research lab:** A structural advantage in operating cost and compliance positioning for global institutions
 
-### Product portfolio
+### What products does Kalaris Labs offer?
 
 | Product | What it is |
 |---|---|
@@ -79,7 +83,7 @@ Kalaris Labs is an infrastructure company with multiple independently monetizabl
 | **Kalki** | In-house scientific language models, fine-tuned for scientific writing, reasoning, and literature synthesis. |
 | **Kalaris Workbench** | Flagship SaaS research workbench for labs, universities, biotech, and pharma. The surface researchers live in every day. |
 
-## What we believe
+## What does Kalaris Labs believe?
 
 🔥 **Read this before anything else.**
 
@@ -93,7 +97,7 @@ Kalaris Labs is an infrastructure company with multiple independently monetizabl
 - We are building the AI scientist that builds better AI scientists. That is not a tagline. It is the architectural decision embedded in every layer of the stack.
 - From India, for global science. AI for science and good. India-hosted, sovereign, cost-efficient, and globally ambitious. That is not a constraint. It is a structural advantage.
 
-## Founding team
+## Who founded Kalaris Labs?
 
 | Team member | Profile | Focus |
 |---|---|---|
@@ -102,7 +106,7 @@ Kalaris Labs is an infrastructure company with multiple independently monetizabl
 | Aryan Jha | [LinkedIn](https://www.linkedin.com/in/aryan-jha-amend/) | Founding team, AI systems, product research, community signal |
 | Yashvardhan Singh | [LinkedIn](https://www.linkedin.com/in/yashvardhan-singh-795b73335/) | CTO, engineering leadership, startup operations, AI product systems |
 
-## Sponsors and support
+## Who supports Kalaris Labs?
 
 We gratefully acknowledge startup program, infrastructure, and platform support from the following teams. Their programs are actively helping Kalaris Labs build the vision.
 
@@ -111,25 +115,25 @@ We gratefully acknowledge startup program, infrastructure, and platform support 
 <tr>
 <td align="center" width="150">
 <a href="https://posthog.com/startups">
-<img src="assets/sponsors/posthog/posthog-logo.png" width="100" alt="PostHog">
+<img src="assets/sponsors/posthog/posthog-logo.png" width="100" alt="PostHog for Startups supports Kalaris Labs with product analytics">
 <br><b>PostHog</b>
 </a>
 </td>
 <td align="center" width="150">
 <a href="https://www.datadoghq.com/">
-<img src="assets/sponsors/datadog/datadog-logo.png" width="100" alt="Datadog">
+<img src="assets/sponsors/datadog/datadog-logo.png" width="100" alt="Datadog supports Kalaris Labs with observability and monitoring">
 <br><b>Datadog</b>
 </a>
 </td>
 <td align="center" width="150">
 <a href="https://sentry.io/for/startups/">
-<img src="assets/sponsors/sentry/sentry-logo.png" width="100" alt="Sentry">
+<img src="assets/sponsors/sentry/sentry-logo.png" width="100" alt="Sentry for Startups supports Kalaris Labs with application monitoring">
 <br><b>Sentry</b>
 </a>
 </td>
 <td align="center" width="150">
 <a href="https://e2b.dev/startups">
-<img src="assets/sponsors/e2b/e2b-logo.png" width="100" alt="E2B">
+<img src="assets/sponsors/e2b/e2b-logo.png" width="100" alt="E2B supports Kalaris Labs with secure AI code sandboxes">
 <br><b>E2B</b>
 </a>
 </td>
@@ -137,25 +141,25 @@ We gratefully acknowledge startup program, infrastructure, and platform support 
 <tr>
 <td align="center" width="150">
 <a href="https://www.notion.so/">
-<img src="assets/sponsors/notion/notion-logo.png" width="100" alt="Notion">
+<img src="assets/sponsors/notion/notion-logo.png" width="100" alt="Notion Business supports Kalaris Labs with knowledge workspace">
 <br><b>Notion</b>
 </a>
 </td>
 <td align="center" width="150">
 <a href="https://runware.ai/">
-<img src="assets/sponsors/runware/runware-logo.png" width="100" alt="Runware">
+<img src="assets/sponsors/runware/runware-logo.png" width="100" alt="Runware supports Kalaris Labs with image generation infrastructure">
 <br><b>Runware</b>
 </a>
 </td>
 <td align="center" width="150">
 <a href="https://cartesia.ai/">
-<img src="assets/sponsors/cartesia/cartesia-logo.png" width="100" alt="Cartesia">
+<img src="assets/sponsors/cartesia/cartesia-logo.png" width="100" alt="Cartesia supports Kalaris Labs with voice AI technology">
 <br><b>Cartesia</b>
 </a>
 </td>
 <td align="center" width="150">
 <a href="https://www.anthropic.com/startups">
-<img src="assets/sponsors/anthropic/anthropic-logo.png" width="100" alt="Anthropic">
+<img src="assets/sponsors/anthropic/anthropic-logo.png" width="100" alt="Claude for Startups by Anthropic supports Kalaris Labs with AI model access">
 <br><b>Claude for Startups</b>
 </a>
 </td>
@@ -163,25 +167,25 @@ We gratefully acknowledge startup program, infrastructure, and platform support 
 <tr>
 <td align="center" width="150">
 <a href="https://www.cloudflare.com/forstartups/">
-<img src="assets/sponsors/cloudflare/cloudflare-logo.png" width="100" alt="Cloudflare">
+<img src="assets/sponsors/cloudflare/cloudflare-logo.png" width="100" alt="Cloudflare Startups supports Kalaris Labs with edge infrastructure">
 <br><b>Cloudflare Startups</b>
 </a>
 </td>
 <td align="center" width="150">
 <a href="https://openai.com/startups/">
-<img src="assets/sponsors/openai/openai-logo.png" width="100" alt="OpenAI">
+<img src="assets/sponsors/openai/openai-logo.png" width="100" alt="OpenAI Startups supports Kalaris Labs with AI platform access">
 <br><b>OpenAI Startups</b>
 </a>
 </td>
 <td align="center" width="150">
 <a href="https://www.mongodb.com/startups">
-<img src="assets/sponsors/mongodb/mongodb-logo.png" width="100" alt="MongoDB">
+<img src="assets/sponsors/mongodb/mongodb-logo.png" width="100" alt="MongoDB for Startups supports Kalaris Labs with database infrastructure">
 <br><b>MongoDB</b>
 </a>
 </td>
 <td align="center" width="150">
 <a href="https://grafana.com/">
-<img src="assets/sponsors/grafana/grafana-logo.png" width="100" alt="Grafana">
+<img src="assets/sponsors/grafana/grafana-logo.png" width="100" alt="Grafana supports Kalaris Labs with observability and dashboards">
 <br><b>Grafana</b>
 </a>
 </td>
@@ -191,7 +195,7 @@ We gratefully acknowledge startup program, infrastructure, and platform support 
 
 Program participation acknowledges infrastructure, credits, tooling, workspace, model, or platform support. It does not imply endorsement of every Kalaris Labs claim, repository, benchmark, or research artifact.
 
-## Work with us
+## How to work with Kalaris Labs
 
 We welcome researchers, scientific software engineers, infrastructure builders, and careful critics.
 
@@ -200,10 +204,20 @@ We welcome researchers, scientific software engineers, infrastructure builders, 
 - Read more at [kalarislabs.com](https://kalarislabs.com).
 - Contact: [hello@kalarislabs.com](mailto:hello@kalarislabs.com)
 
+## Research areas
+
+Kalaris Labs works across the following research areas in AI for science, agentic AI, and scientific computing:
+
+Agentic AI · Autonomous Science · Scientific Computing · Multi-Agent Systems · Research Automation · Reproducible Research · AI Infrastructure · GPU Inference · Verification · Knowledge Graphs · Secure Code Execution · Scientific Memory · Citation Validation · Open Science · World Models · AI for Science · Scientific Document Parsing · OCR for Research · Recursive Self-Improvement · Research Runtimes · LLM Inference Optimization · AI Research Lab India
+
+`#AgenticAI` `#AutonomousScience` `#ScientificComputing` `#AIInfrastructure` `#MultiAgentSystems` `#ReproducibleResearch` `#ResearchAutomation` `#AIForScience` `#GPUComputing` `#OpenScience` `#KnowledgeGraphs` `#WorldModels` `#RecursiveAI` `#ScientificAI` `#AIResearchLab` `#KalarisLabs` `#DeepTech` `#AIFromIndia`
+
 ---
 
 <div align="center">
 
 **Own the loop. Improve every cycle. Build the infrastructure the world's science deserves.**
+
+*Kalaris Labs is an applied AI research lab headquartered in India, building recursive self-improving agentic AI infrastructure for scientific discovery. Founded in 2026.*
 
 </div>
