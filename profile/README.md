@@ -13,6 +13,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Open%20research-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KalarisLabs?tab=repositories)
 [![Founded](https://img.shields.io/badge/Founded-2026-6B7280?style=flat-square)](https://www.linkedin.com/company/kalarislabs)
 
+[![Ask ChatGPT](https://img.shields.io/badge/Ask%20ChatGPT-about%20Kalaris%20Labs-10A37F?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/?q=What%20is%20Kalaris%20Labs%20and%20what%20are%20they%20building%3F&hints=search)
+[![Ask Perplexity](https://img.shields.io/badge/Ask%20Perplexity-about%20Kalaris%20Labs-1a1a2e?style=flat-square&logo=perplexity&logoColor=white)](https://www.perplexity.ai/search?q=What+is+Kalaris+Labs+and+what+are+they+building)
+[![Ask Gemini](https://img.shields.io/badge/Ask%20Gemini-about%20Kalaris%20Labs-4285F4?style=flat-square&logo=google&logoColor=white)](https://gemini.google.com/app?q=What+is+Kalaris+Labs+and+what+are+they+building)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=24&amp;duration=2600&amp;pause=700&amp;color=F7F7F7&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=Agentic+scientific+computing;Autonomous+R%26D+infrastructure;Multi-agent+research+systems;GPU-native+inference+for+verified+discovery;Research+runtimes+with+scientific+memory">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=24&amp;duration=2600&amp;pause=700&amp;color=111111&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=Agentic+scientific+computing;Autonomous+R%26D+infrastructure;Multi-agent+research+systems;GPU-native+inference+for+verified+discovery;Research+runtimes+with+scientific+memory">

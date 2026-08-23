@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: Kalaris Labs
+message: >-
+  If you use or reference Kalaris Labs infrastructure, products, or research
+  in your work, please cite this repository.
+type: software
+authors:
+  - given-names: Sayan
+    family-names: Chowdhury
+    affiliation: Kalaris Labs
+  - given-names: Srihari
+    family-names: Muralikrishnan
+    affiliation: Kalaris Labs
+  - given-names: Aryan
+    family-names: Jha
+    affiliation: Kalaris Labs
+  - given-names: Yashvardhan
+    family-names: Singh
+    affiliation: Kalaris Labs
+repository-code: https://github.com/KalarisLabs/.GITHUB
+url: https://kalarislabs.com
+abstract: >-
+  Kalaris Labs is an applied AI research lab building recursive,
+  self-improving agentic AI infrastructure for scientific discovery.
+  We build systems for autonomous R&D, multi-agent orchestration,
+  GPU-native execution, optimized inference, and reproducible
+  research automation. Built from India for global science.
+keywords:
+  - agentic AI
+  - scientific computing
+  - AI for science
+  - autonomous research
+  - recursive self-improvement
+  - multi-agent systems
+  - scientific infrastructure
+  - AI research lab
+  - world models
+  - GPU inference
+  - research automation
+  - reproducible research
+license: MIT
+date-released: "2026-01-01"
