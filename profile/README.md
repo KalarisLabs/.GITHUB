@@ -126,14 +126,14 @@ We gratefully acknowledge startup program, infrastructure, and platform support 
 <br><b>Sentry</b>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" width="150">
 <a href="https://e2b.dev/startups">
 <img src="assets/sponsors/e2b/e2b-logo.png" width="100" alt="E2B">
 <br><b>E2B</b>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" width="150">
 <a href="https://www.notion.so/">
 <img src="assets/sponsors/notion/notion-logo.png" width="100" alt="Notion">
@@ -146,14 +146,14 @@ We gratefully acknowledge startup program, infrastructure, and platform support 
 <br><b>Runware</b>
 </a>
 </td>
-</tr>
-<tr>
 <td align="center" width="150">
 <a href="https://cartesia.ai/">
 <img src="assets/sponsors/cartesia/cartesia-logo.png" width="100" alt="Cartesia">
 <br><b>Cartesia</b>
 </a>
 </td>
+</tr>
+<tr>
 <td align="center" width="150">
 <a href="https://www.cloudflare.com/forstartups/">
 <img src="assets/sponsors/cloudflare/cloudflare-logo.png" width="100" alt="Cloudflare">
@@ -164,6 +164,18 @@ We gratefully acknowledge startup program, infrastructure, and platform support 
 <a href="https://openai.com/startups/">
 <img src="assets/sponsors/openai/openai-logo.png" width="100" alt="OpenAI">
 <br><b>OpenAI Startups</b>
+</a>
+</td>
+<td align="center" width="150">
+<a href="https://www.mongodb.com/startups">
+<img src="assets/sponsors/mongodb/mongodb-logo.png" width="100" alt="MongoDB">
+<br><b>MongoDB</b>
+</a>
+</td>
+<td align="center" width="150">
+<a href="https://grafana.com/">
+<img src="assets/sponsors/grafana/grafana-logo.png" width="100" alt="Grafana">
+<br><b>Grafana</b>
 </a>
 </td>
 </tr>
