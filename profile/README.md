@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../public/kalarislabsbanner.gif.webp" alt="Kalaris Labs agentic scientific computing research lab banner" width="100%">
+<img src="../public/kalarislabsbanner.gif.webp" alt="Kalaris Labs banner" width="100%">
 
 # Kalaris Labs
 
@@ -17,87 +17,160 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=24&amp;duration=2600&amp;pause=700&amp;color=111111&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=Agentic+scientific+computing;Autonomous+R%26D+infrastructure;Multi-agent+research+systems;GPU-native+inference+for+verified+discovery;Research+runtimes+with+scientific+memory" alt="Animated Kalaris Labs focus areas">
 </picture>
 
-[![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Scientific%20Computing-111111?style=for-the-badge)](https://kalarislabs.com)
-[![Autonomous Science](https://img.shields.io/badge/Autonomous%20Science-Research%20Runtime-222222?style=for-the-badge)](https://kalarislabs.com)
-[![Verification](https://img.shields.io/badge/Verification-Adversarial%20Review-444444?style=for-the-badge)](https://kalarislabs.com)
-
 </div>
 
 ---
 
-## Agentic scientific computing infrastructure
+> **Kalaris Labs builds recursive, self-improving agentic AI infrastructure for scientific discovery.**
+>
+> We are a full-stack agentic AI research lab built from India for global science. We own the model, the harness, the loop, the inference, and the data. We are not a wrapper lab.
 
-Kalaris Labs is an applied AI research lab building the infrastructure layer for agentic scientific discovery. We build systems for autonomous R&D, multi-agent orchestration, GPU-native execution, optimized inference, secure code execution, verifiable research workflows, and reproducible research automation.
+## What "Kalaris" means
 
-Our work connects research runtimes, scientific memory, knowledge graphs, citation validation, adversarial review, and inspectable scientific output. The goal is not another chatbot. The goal is infrastructure that helps researchers plan, execute, verify, and communicate evidence with stronger provenance.
+**Kalaris = Kalari + Kalki.**
 
-**Core search areas:** agentic AI, autonomous scientific discovery, AI for science, scientific computing, multi-agent systems, research automation, AI infrastructure, GPU inference, reproducibility, verification, citation checking, knowledge graphs, secure sandboxes, scientific memory, optimized inference, research runtime.
+**Kalari** is the ancient Indian martial arts training ground. A place of disciplined practice, repetition, and skill-building. You do not become a master through inspiration. You become one through the loop.
 
-## Build the research loop, not another chatbot
+**Kalki** is the future avatar of transformation. The force that ends a broken cycle and begins a new one.
 
-Scientific AI becomes useful when reasoning is connected to execution, provenance, and verification. Kalaris Labs is working on the infrastructure that joins those parts into one inspectable loop:
+**Kalaris Labs = a disciplined training ground for transformative intelligence.**
 
-```text
-research question
-      |
-      v
-plan -> execute -> observe -> challenge -> revise
-  ^                                      |
-  |______________________________________|
-      reproducible state + provenance
-```
+Recursive self-improvement is the **Kalari**. Agents practice, evaluate, and improve every loop. The loop is not a feature. It is the discipline.
 
-Our focus is **agentic scientific computing**: multi-agent research systems, secure computational execution, scientific memory, evidence-aware synthesis, adversarial review, and reproducible research workflows. The aim is not to automate judgment away. It is to give researchers stronger systems for testing ideas and tracing how a result was produced.
+Transforming science from broken infrastructure to autonomous discovery is the **Kalki**. The end of the old research system, and the beginning of a new one.
 
-## What we are building toward
+## Mission
 
-- **Research orchestration:** Decompose a scientific objective into bounded, reviewable computational tasks.
-- **Reproducible execution:** Run code, analyses, and experiments in isolated environments with explicit inputs and outputs.
-- **Verification as infrastructure:** Challenge claims, check citations, expose uncertainty, and fail closed when evidence is insufficient.
-- **Scientific memory:** Preserve decisions, provenance, artifacts, and unresolved questions across long-running projects.
-- **Research communication:** Convert verified computational output into clear methods, results, discussion, and citations while keeping the evidence trail visible.
-- **GPU-native research systems:** Route models, schedule compute, and optimize inference for demanding scientific workloads.
+AI for Science and Good. Build the infrastructure that lets agents absorb the work that is not the science, so researchers spend their time on discovery instead.
 
-## Research principles
+## Vision
 
-1. **Evidence before confidence.** Model output is not experimental proof.
-2. **Reproducibility before spectacle.** A result should carry enough context to inspect and rerun it.
-3. **Adversarial review by design.** Systems should search for confounders, counterexamples, and failure modes.
-4. **Explicit boundaries.** Unsupported conclusions should become warnings, failures, or no-calls rather than polished guesses.
-5. **Human authority remains visible.** AI infrastructure can expand scientific throughput. It does not erase expert, ethical, clinical, regulatory, or safety responsibility.
+A recursive, self-improving research system backed by in-house scientific models that becomes a trusted collaborator across the full scientific method, not just a faster literature-review tool. Long-term ambition: AGI for science through recursive self-improvement.
 
+## The problem
+
+Every AI-for-science product built in the last year is an agent orchestrating someone else's model. Their ceiling is whatever the frontier labs decide to ship this quarter. Their margin is whatever is left after paying per-token to someone else.
+
+**We are not building on top of the stack. We are building the stack.**
+
+The bottleneck in scientific discovery is not reading speed. It is not literature access. It is not even compute. It is the absence of an AI system that was built, from the ground up, to *do science*, own the loop, and get measurably better at it every time a researcher uses it.
+
+## What we are building
+
+Kalaris Labs is an infrastructure company with multiple independently monetizable layers. Every layer feeds the same flywheel: usage data that makes the next version of the model better at science.
+
+### Core moats
+
+- **Recursive self-improvement:** RL loops and self-evaluation built into the agent harness
+- **In-house scientific models:** Trained and fine-tuned for scientific writing, reasoning, literature synthesis, and research workflows
+- **Scientific-grade OCR and parsing:** High-fidelity extraction from PDFs, formulas, tables, figures, and citations
+- **Hardware-aware inference:** Optimized serving for scientific LLMs, multi-GPU, speculative decoding
+- **Open-source reports and benchmarks:** Public credibility that drives adoption of the paid infrastructure
+- **India-based, cost-efficient research lab:** A structural advantage in operating cost and compliance positioning for global institutions
+
+### Product portfolio
+
+| Product | What it is |
+|---|---|
+| **Kalaris Parse** | Scientific document OCR and parsing engine. Extracts text, formulas, tables, figures, and citations from PDFs at high speed. |
+| **Kalaris Recall** | High-throughput paper ingestion, indexing, hybrid search, citation graph, and RAG pipeline for scientific corpora. |
+| **Kalaris Loop** | Recursive agent harness and self-improvement loop engine. Multi-agent orchestration, self-evaluation, RL training loops. |
+| **Kalaris Serve** | Optimized inference engine for scientific LLMs. Multi-GPU, batching, speculative decoding, low-latency serving. In-house. |
+| **Kalki** | In-house scientific language models, fine-tuned for scientific writing, reasoning, and literature synthesis. |
+| **Kalaris Workbench** | Flagship SaaS research workbench for labs, universities, biotech, and pharma. The surface researchers live in every day. |
+
+## What we believe
+
+🔥 **Read this before anything else.**
+
+- Scientists should spend 80% of their time on science, not infrastructure. The other 20% should be handled by a system that improves every time it handles it.
+- Agents should not just assist. They should recursively improve themselves. An agent that does not get better is a tool. We are not building a tool.
+- A real AI research lab owns the model, the harness, the loop, the inference, and the data. Owning one layer is a feature. Owning all four is a moat.
+- Reproducibility is infrastructure. If your AI cannot reproduce its own reasoning, it is not doing science. It is performing science.
+- Scientific discovery is a compute and learning problem. The labs that treat it that way will define the next century of research.
+- Model-agnostic is a business model, not a vision. When you build skills on any model, you optimize for portability. We optimize for performance. Our skill files co-evolve with our model. That is not possible if you do not own the model.
+- We are building the AI scientist that builds better AI scientists. That is not a tagline. It is the architectural decision embedded in every layer of the stack.
+- From India, for global science. AI for science and good. India-hosted, sovereign, cost-efficient, and globally ambitious. That is not a constraint. It is a structural advantage.
 
 ## Founding team
 
-Public LinkedIn profiles help researchers, collaborators, startup programs, and AI search systems connect Kalaris Labs to the people building the lab.
-
-| Team member | Public profile | Focus area |
+| Team member | Profile | Focus |
 |---|---|---|
 | Sayan Chowdhury | [LinkedIn](https://www.linkedin.com/in/sayanchowdhuryai/) | Founder, agentic AI research, scientific infrastructure, public communication |
 | Srihari Muralikrishnan | [LinkedIn](https://www.linkedin.com/in/sriharithebest/) | Founder, Lead Developer, R&D spearhead |
 | Aryan Jha | [LinkedIn](https://www.linkedin.com/in/aryan-jha-amend/) | Founding team, AI systems, product research, community signal |
 | Yashvardhan Singh | [LinkedIn](https://www.linkedin.com/in/yashvardhan-singh-795b73335/) | CTO, engineering leadership, startup operations, AI product systems |
 
-## Supported by startup programs and platform partners
+## Sponsors and support
 
-We gratefully acknowledge startup program, infrastructure, and platform support from teams that help Kalaris Labs build reliable research systems.
+We gratefully acknowledge startup program, infrastructure, and platform support from the following teams. Their programs are actively helping Kalaris Labs build the vision.
 
 <div align="center">
-
-| Data and memory | Observability and reliability | Agent execution | Research workspace | AI and media infrastructure |
-|---|---|---|---|---|
-| [![MongoDB for Startups](https://img.shields.io/badge/MongoDB%20for%20Startups-Database%20support-00684A?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/startups) | [![Datadog](https://img.shields.io/badge/Datadog-Observability-632CA6?style=for-the-badge&logo=datadog&logoColor=white)](https://www.datadoghq.com/) | [![E2B](https://img.shields.io/badge/E2B-Secure%20sandboxes-ff8800?style=for-the-badge)](https://e2b.dev/startups) | [![Notion Business](https://img.shields.io/badge/Notion%20Business-Knowledge%20workspace-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.com/product/business) | [![Runware](https://img.shields.io/badge/Runware-Generation%20infrastructure-111111?style=for-the-badge)](https://runware.ai/) |
-| [![PostHog](https://img.shields.io/badge/PostHog-Product%20analytics-FF5C2B?style=for-the-badge&logo=posthog&logoColor=white)](https://posthog.com/startups) | [![Sentry](https://img.shields.io/badge/Sentry-Application%20monitoring-362D59?style=for-the-badge&logo=sentry&logoColor=white)](https://sentry.io/for/startups/) | [![Claude for Startups](https://img.shields.io/badge/Claude%20for%20Startups-AI%20model%20support-D97757?style=for-the-badge)](https://www.anthropic.com/startups) | [![OpenAI for Startups](https://img.shields.io/badge/OpenAI%20for%20Startups-AI%20platform%20support-10A37F?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/startups/) | [![Cartesia](https://img.shields.io/badge/Cartesia-Voice%20AI%20support-00563F?style=for-the-badge)](https://cartesia.ai/) |
-
+<table>
+<tr>
+<td align="center" width="150">
+<a href="https://posthog.com/startups">
+<img src="assets/sponsors/posthog/posthog-logo.png" width="100" alt="PostHog">
+<br><b>PostHog</b>
+</a>
+</td>
+<td align="center" width="150">
+<a href="https://www.datadoghq.com/">
+<img src="assets/sponsors/datadog/datadog-logo.png" width="100" alt="Datadog">
+<br><b>Datadog</b>
+</a>
+</td>
+<td align="center" width="150">
+<a href="https://sentry.io/for/startups/">
+<img src="assets/sponsors/sentry/sentry-logo.png" width="100" alt="Sentry">
+<br><b>Sentry</b>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="150">
+<a href="https://e2b.dev/startups">
+<img src="assets/sponsors/e2b/e2b-logo.png" width="100" alt="E2B">
+<br><b>E2B</b>
+</a>
+</td>
+<td align="center" width="150">
+<a href="https://www.notion.so/">
+<img src="assets/sponsors/notion/notion-logo.png" width="100" alt="Notion">
+<br><b>Notion</b>
+</a>
+</td>
+<td align="center" width="150">
+<a href="https://runware.ai/">
+<img src="assets/sponsors/runware/runware-logo.png" width="100" alt="Runware">
+<br><b>Runware</b>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="150">
+<a href="https://cartesia.ai/">
+<img src="assets/sponsors/cartesia/cartesia-logo.png" width="100" alt="Cartesia">
+<br><b>Cartesia</b>
+</a>
+</td>
+<td align="center" width="150">
+<a href="https://www.cloudflare.com/forstartups/">
+<img src="assets/sponsors/cloudflare/cloudflare-logo.png" width="100" alt="Cloudflare">
+<br><b>Cloudflare Startups</b>
+</a>
+</td>
+<td align="center" width="150">
+<a href="https://openai.com/startups/">
+<img src="assets/sponsors/openai/openai-logo.png" width="100" alt="OpenAI">
+<br><b>OpenAI Startups</b>
+</a>
+</td>
+</tr>
+</table>
 </div>
 
 Program participation acknowledges infrastructure, credits, tooling, workspace, model, or platform support. It does not imply endorsement of every Kalaris Labs claim, repository, benchmark, or research artifact.
-
-## Research areas
-
-Agentic AI · Autonomous Science · Scientific Computing · Multi-Agent Systems · Research Automation · Reproducible Research · AI Infrastructure · GPU Inference · Verification · Knowledge Graphs · Secure Code Execution · Scientific Memory · Citation Validation · Open Science
-
-`#AgenticAI` `#AutonomousScience` `#ScientificComputing` `#AIInfrastructure` `#MultiAgentSystems` `#ReproducibleResearch` `#ResearchAutomation` `#AIForScience` `#GPUComputing` `#OpenScience` `#KnowledgeGraphs` `#AIOps` `#LLMOps`
 
 ## Work with us
 
