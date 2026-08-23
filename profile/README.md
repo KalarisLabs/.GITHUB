@@ -4,7 +4,9 @@
 
 # Kalaris Labs
 
-### Infrastructure layer for agentic scientific computing
+### Kalaris Labs builds recursive, self-improving agentic AI infrastructure for scientific discovery.
+
+**Infrastructure layer for agentic scientific computing**
 
 [![Website](https://img.shields.io/badge/Website-kalarislabs.com-111111?style=flat-square)](https://kalarislabs.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalaris%20Labs-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/kalarislabs)
@@ -21,9 +23,7 @@
 
 ---
 
-### Kalaris Labs builds recursive, self-improving agentic AI infrastructure for scientific discovery.
-
-We are a full-stack agentic AI research lab built from India for global science. We own the model, the harness, the loop, the inference, and the data. We are not a wrapper lab.
+We are an applied AI research lab built from India for global science. We own the model, the harness, the loop, the inference, and the data. We are not a wrapper lab.
 
 ## What "Kalaris" means
 
