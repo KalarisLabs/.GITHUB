@@ -153,6 +153,12 @@ We gratefully acknowledge startup program, infrastructure, and platform support 
 <br><b>Cartesia</b>
 </a>
 </td>
+<td align="center" width="150">
+<a href="https://www.anthropic.com/startups">
+<img src="assets/sponsors/anthropic/anthropic-logo.png" width="100" alt="Anthropic">
+<br><b>Claude for Startups</b>
+</a>
+</td>
 </tr>
 <tr>
 <td align="center" width="150">
@@ -177,14 +183,6 @@ We gratefully acknowledge startup program, infrastructure, and platform support 
 <a href="https://grafana.com/">
 <img src="assets/sponsors/grafana/grafana-logo.png" width="100" alt="Grafana">
 <br><b>Grafana</b>
-</a>
-</td>
-</tr>
-<tr>
-<td align="center" width="150">
-<a href="https://www.anthropic.com/startups">
-<img src="assets/sponsors/anthropic/anthropic-logo.png" width="100" alt="Anthropic">
-<br><b>Claude for Startups</b>
 </a>
 </td>
 </tr>
