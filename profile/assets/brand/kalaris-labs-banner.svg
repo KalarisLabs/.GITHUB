@@ -1,0 +1,41 @@
+<svg width="1982" height="761" viewBox="0 0 1982 761" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Kalaris Labs banner</title>
+  <desc id="desc">Black and white Kalaris Labs cyber research banner with dotted field pattern.</desc>
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="48%" r="55%">
+      <stop offset="0%" stop-color="#2B2B2B"/>
+      <stop offset="45%" stop-color="#101010"/>
+      <stop offset="100%" stop-color="#050505"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <rect x="9" y="9" width="5" height="5" fill="#E8E8E8" opacity="0.62"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.04"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.04"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+  </defs>
+  <rect width="1982" height="761" fill="url(#glow)"/>
+  <rect width="1982" height="761" fill="#000" opacity="0.42"/>
+  <g opacity="0.82">
+    <path d="M0 125 C180 90 220 170 410 110 S760 45 940 104 S1260 184 1480 95 S1830 40 1982 104 V0 H0 Z" fill="url(#dots)" opacity="0.38"/>
+    <path d="M0 390 C210 335 330 460 470 365 S780 275 980 342 S1260 470 1515 350 S1840 285 1982 340 V761 H0 Z" fill="url(#dots)" opacity="0.34"/>
+    <path d="M0 690 C340 650 520 745 820 690 S1280 625 1570 685 S1840 755 1982 705 V761 H0 Z" fill="url(#dots)" opacity="0.24"/>
+  </g>
+  <g opacity="0.38" filter="url(#soft)">
+    <rect x="536" y="304" width="910" height="74" fill="#FFFFFF" opacity="0.08"/>
+    <rect x="598" y="416" width="780" height="32" fill="#FFFFFF" opacity="0.06"/>
+  </g>
+  <g opacity="0.42">
+    <rect x="0" y="169" width="584" height="2" fill="url(#fade)"/>
+    <rect x="1395" y="356" width="495" height="2" fill="url(#fade)"/>
+    <rect x="460" y="542" width="1090" height="2" fill="url(#fade)"/>
+    <rect x="0" y="707" width="1982" height="2" fill="url(#fade)"/>
+  </g>
+  <text x="991" y="426" text-anchor="middle" font-family="Arial Black, Orbitron, Eurostile, sans-serif" font-size="140" font-weight="900" letter-spacing="18" fill="#F7F7F7">KALARIS</text>
+  <text x="1338" y="494" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="500" letter-spacing="32" fill="#F4F4F4">LABS</text>
+</svg>
