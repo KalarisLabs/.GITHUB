@@ -21,9 +21,9 @@
 
 ---
 
-> **Kalaris Labs builds recursive, self-improving agentic AI infrastructure for scientific discovery.**
->
-> We are a full-stack agentic AI research lab built from India for global science. We own the model, the harness, the loop, the inference, and the data. We are not a wrapper lab.
+### Kalaris Labs builds recursive, self-improving agentic AI infrastructure for scientific discovery.
+
+We are a full-stack agentic AI research lab built from India for global science. We own the model, the harness, the loop, the inference, and the data. We are not a wrapper lab.
 
 ## What "Kalaris" means
 
@@ -89,6 +89,7 @@ Kalaris Labs is an infrastructure company with multiple independently monetizabl
 - Reproducibility is infrastructure. If your AI cannot reproduce its own reasoning, it is not doing science. It is performing science.
 - Scientific discovery is a compute and learning problem. The labs that treat it that way will define the next century of research.
 - Model-agnostic is a business model, not a vision. When you build skills on any model, you optimize for portability. We optimize for performance. Our skill files co-evolve with our model. That is not possible if you do not own the model.
+- The future of AI is world models. Systems that build internal representations of how science works, not just how language works. When AI can simulate, predict, and reason about the physical world, it stops being a copilot and starts being a collaborator. That is the direction we are building toward.
 - We are building the AI scientist that builds better AI scientists. That is not a tagline. It is the architectural decision embedded in every layer of the stack.
 - From India, for global science. AI for science and good. India-hosted, sovereign, cost-efficient, and globally ambitious. That is not a constraint. It is a structural advantage.
 
@@ -179,6 +180,14 @@ We gratefully acknowledge startup program, infrastructure, and platform support 
 </a>
 </td>
 </tr>
+<tr>
+<td align="center" width="150">
+<a href="https://www.anthropic.com/startups">
+<img src="assets/sponsors/anthropic/anthropic-logo.png" width="100" alt="Anthropic">
+<br><b>Claude for Startups</b>
+</a>
+</td>
+</tr>
 </table>
 </div>
 
@@ -192,12 +201,11 @@ We welcome researchers, scientific software engineers, infrastructure builders, 
 - Follow research and build updates on [LinkedIn](https://www.linkedin.com/company/kalarislabs).
 - Read more at [kalarislabs.com](https://kalarislabs.com).
 - Contact: [hello@kalarislabs.com](mailto:hello@kalarislabs.com)
-- Security reports: [security@kalarislabs.com](mailto:security@kalarislabs.com)
 
 ---
 
 <div align="center">
 
-**Plan precisely. Execute reproducibly. Challenge every claim.**
+**Own the loop. Improve every cycle. Build the infrastructure the world's science deserves.**
 
 </div>
