@@ -28,15 +28,14 @@
 
 ---
 
-Kalaris Labs is an applied AI research lab building the infrastructure layer for agentic scientific discovery. We build systems for autonomous R&D, multi-agent orchestration, GPU-native execution, optimized inference, secure code execution, verifiable research workflows, and reproducible research automation. Built from India for global science.
-
+Kalaris Labs is an applied AI research lab 
 
 ## Who founded Kalaris Labs?
 
 | Team member | Profile | Focus |
 |---|---|---|
-| Sayan Chowdhury | [LinkedIn](https://www.linkedin.com/in/sayanchowdhuryai/) | Founder, agentic AI research, scientific infrastructure, public communication |
-| Srihari Muralikrishnan | [LinkedIn](https://www.linkedin.com/in/sriharithebest/) | Founder, Lead Developer, R&D spearhead |
-| Aryan Jha | [LinkedIn](https://www.linkedin.com/in/aryan-jha-amend/) | Founding team, AI systems, product research, community signal |
-| Yashvardhan Singh | [LinkedIn](https://www.linkedin.com/in/yashvardhan-singh-795b73335/) | CTO, engineering leadership, startup operations, AI product systems |
+| Sayan Chowdhury | [LinkedIn](https://www.linkedin.com/in/sayanchowdhuryai/) 
+| Srihari Muralikrishnan | [LinkedIn](https://www.linkedin.com/in/sriharithebest/) 
+| Aryan Jha | [LinkedIn](https://www.linkedin.com/in/aryan-jha-amend/)
+| Yashvardhan Singh | [LinkedIn](https://www.linkedin.com/in/yashvardhan-singh-795b73335/) 
 
