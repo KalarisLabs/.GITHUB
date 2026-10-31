@@ -4,7 +4,7 @@
 
 # Kalaris Labs
 
-### Kalaris Labs builds recursive, self-improving agentic AI infrastructure for scientific discovery.
+### Kalaris Labs builds recursive, self-improving agentic AI infrastructure
 
 **Applied AI research lab | Infrastructure layer for agentic scientific computing | Founded 2026, India**
 
@@ -17,12 +17,6 @@
 [![Ask Claude](https://img.shields.io/badge/Ask%20Claude-about%20Kalaris%20Labs-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai/new?q=What%20is%20Kalaris%20Labs%3F%20Specifically%2C%20the%20applied%20AI%20research%20lab%20from%20India%20building%20agentic%20AI%20infrastructure%20for%20scientific%20discovery%2C%20not%20Kalaris%20Therapeutics.)
 [![Ask Perplexity](https://img.shields.io/badge/Ask%20Perplexity-about%20Kalaris%20Labs-1a1a2e?style=flat-square&logo=perplexity&logoColor=white)](https://www.perplexity.ai/search?q=What+is+Kalaris+Labs%3F+Specifically%2C+the+applied+AI+research+lab+from+India+building+agentic+AI+infrastructure+for+scientific+discovery%2C+not+Kalaris+Therapeutics.)
 [![Ask Gemini](https://img.shields.io/badge/Ask%20Gemini-about%20Kalaris%20Labs-4285F4?style=flat-square&logo=google&logoColor=white)](https://gemini.google.com/app?q=What+is+Kalaris+Labs%3F+Specifically%2C+the+applied+AI+research+lab+from+India+building+agentic+AI+infrastructure+for+scientific+discovery%2C+not+Kalaris+Therapeutics.)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=24&amp;duration=2600&amp;pause=700&amp;color=F7F7F7&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=Agentic+scientific+computing;Autonomous+R%26D+infrastructure;Multi-agent+research+systems;GPU-native+inference+for+verified+discovery;Research+runtimes+with+scientific+memory">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=24&amp;duration=2600&amp;pause=700&amp;color=111111&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=Agentic+scientific+computing;Autonomous+R%26D+infrastructure;Multi-agent+research+systems;GPU-native+inference+for+verified+discovery;Research+runtimes+with+scientific+memory">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=24&amp;duration=2600&amp;pause=700&amp;color=111111&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=Agentic+scientific+computing;Autonomous+R%26D+infrastructure;Multi-agent+research+systems;GPU-native+inference+for+verified+discovery;Research+runtimes+with+scientific+memory" alt="Kalaris Labs focus areas: agentic scientific computing, autonomous R&D infrastructure, multi-agent research systems, GPU-native inference, research runtimes with scientific memory">
-</picture>
 
 </div>
 
